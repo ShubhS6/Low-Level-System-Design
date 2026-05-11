@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Strategy Design Pattern/1. Strategy Design Pattern.iml" filepath="$PROJECT_DIR$/1. Strategy Design Pattern/1. Strategy Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID Principle/Dependency Inversion/Dependency Inversion.iml" filepath="$PROJECT_DIR$/SOLID Principle/Dependency Inversion/Dependency Inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Document Editor/Document Editor.iml" filepath="$PROJECT_DIR$/Document Editor/Document Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID Principle/Interface Segregation Principle/Interface Segregation Principle.iml" filepath="$PROJECT_DIR$/SOLID Principle/Interface Segregation Principle/Interface Segregation Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID Principle/Liskov Substitution Principle/Liskov Substitution Principle.iml" filepath="$PROJECT_DIR$/SOLID Principle/Liskov Substitution Principle/Liskov Substitution Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Low Level System Design.iml" filepath="$PROJECT_DIR$/.idea/Low Level System Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID Principle/Open Extension Close Modifi/Open Extension Close Modifi.iml" filepath="$PROJECT_DIR$/SOLID Principle/Open Extension Close Modifi/Open Extension Close Modifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID Principle/Single Responsibility Principle/Single Responsibility Principle.iml" filepath="$PROJECT_DIR$/SOLID Principle/Single Responsibility Principle/Single Responsibility Principle.iml" />
+    </modules>
+  </component>
+</project>
